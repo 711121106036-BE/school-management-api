@@ -1,0 +1,8 @@
+school-api/              ← (this is your folder name, don’t upload this folder itself)
+├── app.js               ✅ Main file that runs the API
+├── db.js                ✅ MySQL connection setup
+├── package.json         ✅ Project config and dependencies
+├── .env.example         ✅ Environment variable sample file
+├── README.md            ✅ Project instructions
+├── routes/              ✅ Folder for routing files
+│   └── schoolRoutes.js  ✅ Contains /addSchool and /listSchools APIs
